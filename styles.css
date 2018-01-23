@@ -1,0 +1,8 @@
+.back{background: #333333;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #dd1818, #333333);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #dd1818, #333333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
+.name{margin-left: 75px;padding-left:250px;text-align: center; text-shadow: 2px 2px red; font-size:100px; font-family:"Berkshire Swash";display:inline-block;}
+.bug{position: absolute; top; 0px; right: 5px;float:right;border:solid 5px greenyellow;}
+.topnav{background-color:greenyellow; overflow:hidden;}
+.topnav a {color:red; text-align: center; text-decoration: none; font-size: 30px; padding: 30px;}
+.topnav a:hover{background-color:black;}
