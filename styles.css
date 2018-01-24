@@ -1,10 +1,16 @@
 .back{background: #333333;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #dd1818, #333333);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #dd1818, #333333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
-.name{margin-left: 75px;padding-left:250px;text-align: center; text-shadow: 2px 2px red; font-size:100px; font-family:"Berkshire Swash";display:inline-block;}
-.bug{position: absolute; top; 0px; right: 5px;float:right;border:solid 5px greenyellow;}
-.title{text-align: center; text-shadow: 2px 2px red; font-size: 100px; font-family: "Berkshire Swash";}
+.name{margin-left: 75px;padding-left:250px;text-align: center; text-shadow: 2px 2px red; font-size:6.25em; font-family:"Berkshire Swash";display:inline-block;}
+.bug{float:right;border:solid 5px greenyellow;}
+.title{text-align: center; text-shadow: 2px 2px red; font-size: 6.25em; font-family: "Berkshire Swash";}
 .topnav{background-color:greenyellow; overflow:hidden;}
 .topnav a {color:red; text-align: center; text-decoration: none; font-size: 30px; padding: 30px;}
 .topnav a:hover{background-color:black;}
-.albums{font-family:"Berkshire Swash"; font-size: 70px; text-shadow: 2px 2px red;text-align:center;}
+.albums{font-family:"Berkshire Swash"; font-size: 4.375em; text-shadow: 2px 2px red;text-align:center;}
+.mar{margin-top:100px;vertical-align: top; }
+img{border: 2px solid red; height: 300px; width:300px;}
+.image{position:relative;}
+h4{position: absolute;
+    top:0;
+    left: 70px; width:100%; color:red;font-family:"Berkshire Swash";}
