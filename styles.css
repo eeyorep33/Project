@@ -7,3 +7,4 @@ background: linear-gradient(to right, #dd1818, #333333); /* W3C, IE 10+/ Edge, F
 .topnav{background-color:greenyellow; overflow:hidden;}
 .topnav a {color:red; text-align: center; text-decoration: none; font-size: 30px; padding: 30px;}
 .topnav a:hover{background-color:black;}
+.albums{font-family:"Berkshire Swash"; font-size: 70px; text-shadow: 2px 2px red;text-align:center;}
