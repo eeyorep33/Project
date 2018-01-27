@@ -1,28 +1,85 @@
 .back{background: #333333;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #dd1818, #333333);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #dd1818, #333333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
-.name{padding-left: 3%; text-align:center; text-shadow: 2px 2px red; font-size: 12vw; font-family:"Berkshire Swash";display:inline-block;}
-.bug{float:right;border:solid 5px greenyellow;height:15vw; width: 15vw;}
-.title{text-align: center; text-shadow: 2px 2px red; font-size: 12vw; font-family: "Berkshire Swash";}
-.topnav{background-color:greenyellow; overflow:hidden;}
-.topnav a {color:red; text-align: center; text-decoration: none; font-size: 30px; padding: 5%;}
+
+.name{padding-left: 3%;
+     text-align:center; 
+     text-shadow: 2px 2px red; 
+     font-size: 12vw; 
+     font-family:"Berkshire Swash";
+     display:inline-block;}
+
+.bug{float:right;
+    border:solid 5px greenyellow;
+    height:15vw; 
+    width: 15vw;}
+
+.title{text-align: center; 
+    text-shadow: 2px 2px red; 
+    font-size: 12vw; 
+    font-family: "Berkshire Swash";}
+
+.topnav{background-color:greenyellow; 
+    overflow:hidden;}
+
+.topnav a {color:red; 
+    text-align: center; 
+    text-decoration: none; 
+    font-size: 30px; 
+    padding: 5%;}
+
 .topnav a:hover{background-color:black;}
-.albums{font-family:"Berkshire Swash"; font-size: 9vw; text-shadow: 2px 2px red;text-align:center;}
-.mar{margin-top:100px;vertical-align: top; }
-img{border: 2px solid red; height: 300px; width:300px;}
+
+.albums{font-family:"Berkshire Swash";
+     font-size: 9vw;
+      text-shadow: 2px 2px red;
+      text-align:center;}
+
+.mar{margin-top:100px;
+    vertical-align: top; }
+
+img{border: 2px solid red; 
+    height: 300px;
+     width:300px;}
+
 .image{position:relative;}
+
 h4{position: absolute;
     top:0;
-    left: 70px; width:100%; color:red;font-family:"Berkshire Swash";}
-    .biotitle{text-align: center;font-size: 50px;font-family:"Berkshire Swash";}
-    .biopara{font-size:25px; font-family:"Berkshire Swash";}
-    .container-fluid{width:100%; height: 100%;}
-    .band{width:22em; height: auto;}
-    .about{margin-top: 20px; font-size: 2em; font-family:"Berkshire Swash";}
+    left: 70px;
+     width:100%; 
+     color:red;
+     font-family:"Berkshire Swash";}
+
+    .biotitle{text-align: center;
+        font-size: 50px;
+        font-family:"Berkshire Swash";}
+
+    .biopara{font-size:25px;
+         font-family:"Berkshire Swash";}
+
+    .container-fluid{width:100%;
+         height: 100%;}
+
+    .band{width:22em;
+         height: auto;}
+
+    .about{margin-top: 20px; 
+        font-size: 2em;
+         font-family:"Berkshire Swash";}
+
     .height{height:200px;}
-    .cover{margin-left: 300px;width:500px; height:auto;}
+
+    .cover{width:50%;
+        height:auto; 
+        display:block; 
+        margin-left:auto; 
+        margin-right:auto;}
+
     .date{font-size:2em;}
+
     .place{font-size:1.5em;}
+
     .button {
         display: block;
         width: 6em;
@@ -34,8 +91,15 @@ h4{position: absolute;
         color: red;
         font-weight: bold;} 
          
-        .space{width:16em; height:4em;}
+        .space{width:16em;
+             height:4em;}
+
    td{border: black solid 2px;}
+
   .table a:hover{color:black;}
+
   .table a{color:greenyellow;}
+
   .ticket a:hover{color:greenyellow;}
+
+ .negmar{margin-right:-15px;}
