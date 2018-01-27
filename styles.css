@@ -2,19 +2,19 @@
 background: -webkit-linear-gradient(to right, #dd1818, #333333);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #dd1818, #333333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
 
-.name{padding-left: 3%;
+.bandname{padding-left: 3%;
      text-align:center; 
      text-shadow: 2px 2px red; 
      font-size: 12vw; 
      font-family:"Berkshire Swash";
      display:inline-block;}
 
-.bug{float:right;
+.bugpic{float:right;
     border:solid 5px greenyellow;
     height:15vw; 
     width: 15vw;}
 
-.title{text-align: center; 
+.pagetitle{text-align: center; 
     text-shadow: 2px 2px red; 
     font-size: 12vw; 
     font-family: "Berkshire Swash";}
@@ -42,7 +42,7 @@ img{border: 2px solid red;
     height: 300px;
      width:300px;}
 
-.image{position:relative;}
+.imageposition{position:relative;}
 
 h4{position: absolute;
     top:0;
@@ -61,7 +61,7 @@ h4{position: absolute;
     .container-fluid{width:100%;
          height: 100%;}
 
-    .band{width:22em;
+    .bandpic{width:22em;
          height: auto;}
 
     .about{margin-top: 20px; 
@@ -103,3 +103,11 @@ h4{position: absolute;
   .ticket a:hover{color:greenyellow;}
 
  .negmar{margin-right:-15px;}
+
+ .tastes{font-family:"Berkshire Swash";
+    font-size: 7vw;
+     text-shadow: 2px 2px red;
+     text-align:center;
+     margin-right:auto;
+     margin-left:auto;
+    display:block;}
