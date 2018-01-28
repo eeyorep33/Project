@@ -42,14 +42,8 @@ img{border: 2px solid red; /*sets size for album pics*/
     height: 300px;
      width:300px;}
 
-.imageposition{position:relative;} /*makes div relative position for album pictures*/
-
-h4{position: absolute; /*album titles*/
-    top:0;
-    left: 70px;
-     width:100%; 
-     color:red;
-     font-family:"Berkshire Swash";}
+.bandpic{width:21em; 
+    height:auto;}
 
     .biotitle{text-align: center;
         font-size: 50px;
@@ -109,12 +103,21 @@ h4{position: absolute; /*album titles*/
      margin-left:auto;
     display:block;}
 
-    
-  .line{width:100%; height:20px;background-color:black;}
+   .divspace{width:100%;
+     height: 30px;} 
 
-  .size{width:50%; height:auto;display:block; margin-right:auto; margin-left:auto;}
+  .line{width:100%;
+     height:20px;
+     background-color:black;}
+
+  .size{width:50%;
+     height:auto;
+     display:block; 
+     margin-right:auto; 
+     margin-left:auto;}
    
-   .divfill{margin-top: 120px; margin-bottom:125px;}
+   .divfill{margin-top: 120px;
+     margin-bottom:125px;}
    
 
     
