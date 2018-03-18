@@ -1,0 +1,145 @@
+.pictureCenter{
+      display: block; 
+      margin-right:auto; 
+      margin-left:auto;
+      border: 2px solid #732650}
+.centerText{
+      text-align: center;
+      font-family: 'Fontdiner Swanky', cursive;}
+.space{
+      margin-bottom: 25px}
+.storeTitle{
+      font-size: 75px; 
+      color:#732650; 
+      padding-top:40px;
+      text-shadow:2px 2px black}
+.navbar{
+      background-color:#EAE9E5}
+.itemInfo{
+      font-size:30px; 
+      color:#732650; 
+      text-shadow: black 1px 1px}
+.subMenuTitle{
+      color:#732650;
+      text-shadow:2px 2px black;
+       font-size:50px}
+.pictureSize{
+      height:300px; 
+      width:300px}
+.logo{
+      margin-top:20px;
+      margin-bottom: 20px}
+.navBarButtons{
+      background-color:#3C6944;
+      margin:5px}
+.buttonText{
+      color:#EAE9E5}
+.buttonText:focus{
+      color:#732650;}
+.buttonText:hover{
+      color:black}
+.sticker{
+      transform:rotate(25deg); 
+      float:right; 
+      margin-top: 40px}
+.cart{
+      font-size:18px; 
+      color:#732650; 
+      font-family:'Fontdiner Swanky', cursive;       
+      margin-top:10px;
+      display:inline-block;
+       margin-right:8px}
+.catagoryButton{     
+      margin-right:10px}    
+.catButtonText{
+      color:#3C6944}
+.catButtonText:focus{
+      color:#732650}
+.catButtonText:hover{
+      color:mediumseagreen} 
+.catButtonText:active{
+      color:#3C6944}      
+.shopText{
+      color:#732650; 
+      margin-top: 50px; 
+      text-shadow: 1px 1px black}
+.welcome{
+       margin-top:25px; 
+       margin-bottom:25px; 
+       color:#732650; 
+       text-shadow: 2px 2px black; 
+       font-size:65px}
+.fight{
+      display:block; 
+      margin-left:auto}
+.mainButtons{
+      color:#EAE9E5}
+.formCenter{
+      display:block; 
+      text-align:center}
+.enterName{
+      font-size:25px;
+      color:#732650; 
+      font-family:'Fontdiner Swanky', cursive;
+      text-shadow: 1px 1px black;
+      margin-left:10px}
+.randomName{
+      font-Size:30px; 
+      color:#732650; 
+      font-family:'Fontdiner Swanky', cursive;
+      text-shadow: 1px 1px black;
+      margin-top:20px}
+.top{
+      margin-top:20px}
+.top2{
+      margin-top:40px}
+.top3{
+      margin-top: 100px}
+.top4{
+      margin-top:60px}
+.icon{ 
+      color:#EAE9E5; 
+      display: inline-block}
+.cartDiv{ 
+      float:right;}
+.cartDiv2{
+      float:right; 
+      width:300px; 
+      height:auto}
+.subButtonsDiv{
+      text-align:center}
+.cartDisplay{
+      display:inline-block; 
+      vertical-align:middle}
+.marLeft{
+      margin-left:20px}
+.divBorder{
+      border: 1px solid #732650 }
+.cartImg{
+      width: 100px; 
+      height:100px; 
+      border: solid 1px #732650}
+.marLeft2{
+      margin-right:50px}
+.marLeft3{
+      margin-left:1500px; 
+      margin-top: 10px}
+.font{
+      font-family:'Fontdiner Swanky', cursive;}
+.detailInfo{
+      font-family:'Fontdiner Swanky', cursive;
+      font-size:50px;
+      display:inline-block; 
+      color: #732650 ;
+      margin-left: 150px;} 
+.detailsDiv{
+      color: #732650;
+      font-size:18px;
+      font-family:'Fontdiner Swanky', cursive;
+      text-shadow: 1px 1px black;
+      } 
+.detailsBackground{
+      background-color:white;
+     }
+ 
+
