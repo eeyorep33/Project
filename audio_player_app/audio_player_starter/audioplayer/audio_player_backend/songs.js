@@ -19,4 +19,4 @@ const songs = [{ name: "Achy Breaky Heart", cover: "/images/billy.jpg", Artist: 
 { name: "Umbrella", cover: "/images/rihanna.jpg", Artist: "Rihanna", Album: "Good Girl Gone Bad", Release: 2007, Genre: "R & B/soul", source: "/music/Umbrella.mp3", trackId: 19 },
 { name: "Wannabe", cover: "/images/spice.jpg", Artist: "Spice Girls", Album: "Spice", Release: 1996, Genre: "Pop", source: "/music/wannabe.mp3", trackId: 20 }
 ]
-module.exports = songs  
+module.exports = songs   
