@@ -6,7 +6,7 @@ An application that allows users to select merchandise, add to cart, and see det
 
 **Core Features**:
 -  A home page with user login and random name generator
-- A shop page with featured brands and links to different catagogy pages
+- A shop page with featured brands and links to different catagory pages
 - Product page with title, image and price info
 - Details page for each product
 - Cart page to view items added to cart
